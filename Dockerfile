@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM arshsisodiya/helioskirepo:public
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
